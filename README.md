@@ -10,6 +10,9 @@
 2. Go to Settings -> Secrets
 3. Click "New repository secret" button
 4. Make `LTUID`, `LTOKEN` secrets with your authentication data, following the instructions below
+5. Go to Actions, Click on `Enable Actions Workflow` button
+6. Click `HoYoLAB Attendance` on left Workflows list, and Press Enable Workflow button
+7. You're all set! It will be automatically run your attendance every 16:00 UTC+0
 
 # How can I get my Auth Datas?
 
